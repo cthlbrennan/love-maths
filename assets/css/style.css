@@ -11,7 +11,7 @@
 
 body {
     background-color: white;
-    font-family: 'Gothic Pixel', sans-serif;
+    font-family: 'Gothic Pixel';
     color: #445361;
     text-align: center;
 }
@@ -98,7 +98,6 @@ body {
 .btn {
     width: 220px;
     height: 60px;
-    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
     color: white;
