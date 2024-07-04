@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Gothic Pixel';
-    src: url(../font/LowGothic_8x10_Regular.ttf) format('truetype'); font-display: auto; }
+    src: url(../font/LowGothic_8x10_Regular.ttf) format('truetype'); font-display: block; }
          /* url(/assets/font/fs-underworld.ttf) format('truetype'); */ 
 
 
