@@ -1,7 +1,10 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap'); */
+
 @font-face {
     font-family: 'Gothic Pixel';
-    src: url(/workspace/love-maths/assets/css/style.css/workspace/love-maths/assets/font/fs-underworld.ttf);
+    src: url(/assets/font/LowGothic_8x10_Regular.ttf) format('truetype');
 }
+
 
 /* --------- Global style */
 
